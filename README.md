@@ -16,3 +16,5 @@ some part of the currency app is hard coded because the API requires a plan upgr
 
 ## Demo Video
 [Demo youtube video]("https://www.youtube.com/watch?v=M5vuWES3Xl8")
+[Link](https://www.youtube.com/watch?v=M5vuWES3Xl8)
+https://www.youtube.com/watch?v=M5vuWES3Xl8
